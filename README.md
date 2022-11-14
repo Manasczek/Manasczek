@@ -31,5 +31,5 @@ Victor Hugo
    <img align="center" alt="Victor-Google" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
    <img align="center" alt="Victor-Google-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Victor-Google-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">
+
 </div>
