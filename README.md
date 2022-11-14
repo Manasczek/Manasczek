@@ -2,6 +2,7 @@ Victor Hugo
 
 - 👨‍💻  Systems Analyst /
 - 📘™ Student in Computer Engineering /<br>
+- 📋  Attributions: Professional SOC Analyst, Cybersecurity Analyst, Cloud Security, Ethical hacker, Professional Privacy and Data Protection Analyst;
 <div style="display: inline_block"><br>
 <img align="center" alt="Victor-Windows Server" height="30" width="40" src="https://icongr.am/fontawesome/address-card.svg?size=128&color=currentColor">
 <img align="center" alt="Victor-Windows Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
