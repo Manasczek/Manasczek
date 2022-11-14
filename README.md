@@ -1,9 +1,9 @@
 Victor Hugo
 
 - 👨‍💻  Systems Analyst /
-- 📘™ Student in Computer Engineering /
-- ⚙ Skills;
+- 📘™ Student in Computer Engineering /<br>
 <div style="display: inline_block"><br>
+<img align="center" alt="Victor-Windows Server" height="30" width="40" src="https://icongr.am/fontawesome/address-card.svg?size=128&color=currentColor">
 <img align="center" alt="Victor-Windows Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 <img align="center" alt="Victor-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="center" alt="Victor-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
