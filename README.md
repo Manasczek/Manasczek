@@ -1,6 +1,7 @@
 Victor Hugo
 
-- 👨‍💻  Systems Analyst /
+- 🎓  IT Technician
+- 👨‍💻  I.T Analyst /
 - 📘™ Student in Computer Engineering /<br>
 - 📋  Attributions: Professional SOC Analyst, Cybersecurity Analyst, Cloud Security, Ethical hacker, Professional Privacy and Data Protection Analyst;
 <div style="display: inline_block"><br>
